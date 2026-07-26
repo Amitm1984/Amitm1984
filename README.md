@@ -69,9 +69,8 @@ If this repository saves you even a few hours of learning time, That's the fuel 
 ## Contact
 
 For questions, collaborations, or corrections:
-- **YouTube:** [Datascience ki Baatein](https://www.youtube.com/@datasciencekibaatein)
 - **LinkedIn:** linkedin.com/in/amit-kumar-mishra-676653261
 
 ---
 
-*Currently teaching Python fundamentals. NumPy and Pandas begin next.*
+
