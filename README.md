@@ -17,11 +17,16 @@ I am a Data Scientist with **13+ years of professional experience**, including *
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, SQL, MySQL
-**Machine Learning:** Scikit-learn, TensorFlow, Deep Learning, NLP, LSTM, Time Series Forecasting,Logistic Regression,SVM,Random Forest
-**GenAI:** LLMs, Prompt Engineering, OCR, Image Processing
-**Visualization:** Power BI, Tableau
+**Languages:** Python, SQL, MySQL.
+
+**Machine Learning:** Scikit-learn, TensorFlow, Deep Learning, NLP, LSTM, Time Series Forecasting,Logistic Regression,SVM,Random Forest.
+
+**GenAI:** LLMs, Prompt Engineering, OCR, Image Processing.
+
+**Visualization:** Power BI, Tableau.
+
 **Cloud:** AWS
+
 **Telecom:** LTE/5G, IP/MPLS, Nokia IXR-E, Network Integration, Routing & Switching
 
 ### 🚀 Featured Projects
