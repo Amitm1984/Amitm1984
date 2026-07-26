@@ -1,76 +1,50 @@
-# Data Science Learning Path
-
-A structured repository documenting my journey through Data Science — from Python fundamentals to Machine Learning. All materials are organized to support both my learning and anyone following a similar path.
-
-<p align="center">
-  <img src="banner.png" width="100%" alt="Data Science Learning Path">
-</p>
-
----
-
-## About This Repository
-
-This repository serves as the working reference for my Data Science curriculum
-
-Everything here is production-quality material, not throwaway notes. If you find a project, notebook, or explanation useful — take it, learn from it, build on it.
-
----
-
-## Repository Structure
-
-**`/python`** — Complete Python foundation series
-Variables, data structures, control flow, functions, file handling, exception handling, modules & packages. Each topic includes a Jupyter notebook and video reference.
-
-**`/projects`** — Portfolio-quality projects
-End-to-end implementations covering multiple concepts. Currently includes the Student Marks Management System (Python capstone) with modular architecture.
-
-**`/numpy-pandas`** *(coming soon)*
-Data manipulation and analysis with NumPy and Pandas — the working toolkit of every Data Scientist.
-
-**`/machine-learning`** *(coming soon)*
-Supervised and unsupervised learning algorithms, with mathematical intuition and scikit-learn implementations.
-
-**`/resources`** — Curated references
-Cheat sheets, roadmaps, and reading lists I've personally found useful. Everything here is vetted, not scraped from Google.
-
----
-
-## Learning Philosophy
-
-I believe in three things when it comes to teaching Data Science:
-
-**1. Foundation before frameworks.**
-You cannot skip Python and jump to LangChain. The industry hires Data Scientists who understand systems — not people who prompt-engineer their way through problems.
-
-**2. Language matters.**
-Hindi-speaking learners deserve quality content in the language they think in. Translation isn't a "downgrade" — it's a bridge to underserved audiences.
-
-**3. Depth over speed.**
-A properly built 6-month curriculum beats a rushed 30-day bootcamp every time. Real skills compound.
-
----
-
-## Tech Stack
-
-## Tech Stack
-
-Python · NumPy · Pandas · Matplotlib · Seaborn · Scikit-Learn · SQL · Statistics · Deep Learning · NLP · GenAI (LangChain, RAG)
-
----
-
-## For Learners
-
-If you're following along with the YouTube series, videos and notebooks are aligned. If you want to contribute — either through corrections, additional examples, or suggestions — open an issue or send a pull request.
-
-If this repository saves you even a few hours of learning time, That's the fuel that keeps this work going.
-
----
-
-## Contact
-
-For questions, collaborations, or corrections:
-- **LinkedIn:** linkedin.com/in/amit-kumar-mishra-676653261
-
----
+# 👋 Hi, I'm Amit Kumar Mishra
+<img width="1054" height="1492" alt="image" src="https://github.com/user-attachments/assets/4abdc2f7-7008-4158-8e27-8325ccf7a711" />
 
 
+🚀 **Data Scientist | AI/ML Engineer | Telecom Network Specialist**
+
+I am a Data Scientist with **13+ years of professional experience**, including **9 years in Telecom Networking** and **4+ years in Data Science & Artificial Intelligence**. I specialize in designing and deploying Machine Learning solutions, predictive analytics, and GenAI applications while leveraging my deep expertise in LTE/5G networks and IP/MPLS technologies.
+
+### 🔹 What I Do
+
+* 🤖 Build end-to-end Machine Learning and Deep Learning solutions
+* 📊 Develop predictive analytics and time-series forecasting models
+* 🧠 Create GenAI & LLM-powered applications
+* 📈 Design interactive dashboards using Power BI
+* 🌐 Deploy ML models using FastAPI and cloud technologies
+* 📡 Apply AI to optimize LTE/5G network performance
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, SQL, MySQL
+**Machine Learning:** Scikit-learn, TensorFlow, Deep Learning, NLP, LSTM, Time Series Forecasting,Logistic Regression,SVM,Random Forest
+**GenAI:** LLMs, Prompt Engineering, OCR, Image Processing
+**Visualization:** Power BI, Tableau
+**Cloud:** AWS
+**Telecom:** LTE/5G, IP/MPLS, Nokia IXR-E, Network Integration, Routing & Switching
+
+### 🚀 Featured Projects
+
+* AI-Driven Network Congestion Prediction
+* ML-Based Backhaul Planning Automation
+* GenAI Chatbot for Network Support
+* Neural Network for LTE/5G Traffic Pattern Analysis
+* Bank Marketing Campaign Prediction (Logistic Regression)
+* End-to-End ML Model Deployment using FastAPI
+
+### 🌱 Currently Exploring
+
+* Generative AI & Agentic AI
+* Retrieval-Augmented Generation (RAG)
+* MLOps & Model Deployment
+* Large Language Models (LLMs)
+* Production-Ready AI Systems
+
+### 📫 Connect with Me
+
+* 📍 Bengaluru, India
+* 💼 LinkedIn: https://linkedin.com/in/amit-shandilya-676653261
+* 📧 Email: [mishraamitspanco@gmail.com](mailto:mishraamitspanco@gmail.com)
+
+> *"Transforming data into intelligent solutions through AI, Machine Learning, and Telecom domain expertise."*
